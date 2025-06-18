@@ -2,7 +2,7 @@
 
 ## 🧠 Why I'm Doing This
 
-As I prepare for the job search, I’ve been researching the tools that show up most in SOC analyst job descriptions. One name that comes up over and over again is Splunk. It's one of the most widely used SIEMs in the industry, and I wanted to understand it for myself—not just in theory, but in practice.
+As I prepare for the job search, I’ve been researching the tools that show up most in SOC analyst job descriptions. One name that comes up over and over again is Splunk. From my research, It's one of the most widely used SIEMs in the industry, and I wanted to understand it for myself—not just in theory, but in practice.
 
 This lab is my first hands-on experience inside the Splunk Cloud platform. I created it out of curiosity and a genuine interest in getting more comfortable with tools I know I’ll need on the job.
 

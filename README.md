@@ -18,7 +18,7 @@ Here’s what I explored:
 - Identified the most common sourcetypes with `top sourcetype`
 - Viewed log severity levels with `top log_level`
 - Filtered logs where `log_level=ERROR`
-- (Optional step started) Opened the Visualization tab to try a bar chart
+- Opened the Visualization tab to try a pie chart
 
 ## 🔍 SPL Commands I Practiced
 

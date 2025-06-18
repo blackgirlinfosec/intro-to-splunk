@@ -30,12 +30,13 @@ index=_internal | top log_level
 index=_internal log_level=ERROR
 ```
 ## 📸 Screenshots
-- splunk_cloud_dashboard_home.png — initial login landing page
-- splunk_search_dashboard_empty.png — inside the Search & Reporting app before running a query
-- splunk_internal_search_results.png — results from index=_internal
-- splunk_stats_count_internal.png — total number of logs using stats count
-- splunk_top_sourcetypes.png — identifying common sourcetypes
-- splunk_top_log_levels.png — viewing log levels like INFO, WARN, ERROR
+- [splunk_cloud_dashboard_home.png](https://github.com/blackgirlinfosec/intro-to-splunk/blob/main/splunk_cloud_dashboard_home.png) — initial login landing page
+- [splunk_search_dashboard_empty.png](https://github.com/blackgirlinfosec/intro-to-splunk/blob/main/splunk_search_dashboard_empty.png) — inside the Search & Reporting app before running a query
+- [splunk_internal_search_results.png](https://github.com/blackgirlinfosec/intro-to-splunk/blob/main/splunk_internal_search_results.png) — results from index=_internal
+- [splunk_stats_count_internal.png](https://github.com/blackgirlinfosec/intro-to-splunk/blob/main/splunk_stats_count_internal.png) — total number of logs using stats count
+- [splunk_top_sourcetypes.png](https://github.com/blackgirlinfosec/intro-to-splunk/blob/main/splunk_top_sourcetypes.png) — identifying common sourcetypes
+- [splunk_top_log_levels.png](https://github.com/blackgirlinfosec/intro-to-splunk/blob/main/splunk_top_log_levels.png) — viewing log levels like INFO, WARN, ERROR
+- [splunk_sourcetype_bar_chart.png](https://github.com/blackgirlinfosec/intro-to-splunk/blob/main/splunk_sourcetype_bar_chart.png) - pie chart visualization
 
 ## 🧠 What I Learned
 This lab helped me build a basic level of comfort using Splunk Cloud. I now understand how to navigate the interface, run a search, and analyze logs using SPL. Commands like stats count and top sourcetype helped me begin looking at patterns in the data.
